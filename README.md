@@ -9,7 +9,7 @@ in:搜索字段 项目名 限制条件
 
 ## 单条件查找
 名字中包含spring boot的项目:    
-1、in:name springboot 	
+1、in:name springboot   	
 2、in:readme springboot  
 
 ## 多条件查找,只需在后追加条件即可  
