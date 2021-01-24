@@ -23,7 +23,7 @@ in:name spring boot fork:>3000
 in:readme spring boot fork:>3000   
 
 4、description中包含微服务，用java编写，且2019-9-30后有更新的  
-in:description 微服务 language:java pushed>2019-09-30   
+in:description 微服务 language:java pushed:>2019-09-30   
 
 
 stars:>1000 star>1000  
