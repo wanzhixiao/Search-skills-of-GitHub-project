@@ -4,7 +4,7 @@
 
 in:搜索字段 项目名 限制条件  
 
-github如何找开源项  
+github如何找开源项目  
 in:name spring boot 				名字中包含spring boot的项目  
 in:name spring boot stars:>3000 	starts大于3000  
 in:name spring boot fork:>3000  
